@@ -1,9 +1,13 @@
-I'm JP7EPH
+I'm hori
+
+Callsign: JP7EPH
+
+JPNIC Handle: NH20921JP
 
 **About me**
 
-- 💼 BackEnd Engineer, Mobile Core
-- ❤️ Golang, Network, K8s, and more...
+- 💼 FrontEnd/BackEnd Engineer, Mobile Core
+- ❤️ Golang,　Flutter/Dart, Network, K8s, and more...
 
 More info: [JP7EPH's profile](https://bio.jp7eph.net/)
 
